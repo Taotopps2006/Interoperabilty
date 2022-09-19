@@ -1,3 +1,5 @@
+# code referenced from: https://www.tutorialspoint.com/python_blockchain/python_blockchain_developing_client.htm
+
 '''
 Description: Simple local blockchain project which references previous blocks and clients
 '''
